@@ -1,0 +1,53 @@
+class Game
+	
+	variables:
+		dices					:list
+		winsRequired			:int
+		winners					:list
+		players					:list
+		rounds					:list
+		hasPlayedTieBreaker		:bool
+	
+	methods:
+		__init__(self, dices:list, winsRequired:int , playerAmount:int, oldPlayerList)
+		CreatePlayer(self, playerIndex:int)
+		Play(self)
+		TieBreaker(self)
+		Save(self, filename:str)
+
+class Round
+handles stored data mostly but controls and plays the round using the play method
+	variables:
+		game					:Game
+		highestRoll				:int
+		highestRollers			:list
+		playerRolls				:dict
+	
+	methods:
+		__init__(self, game:Game)
+		Play(self)
+	
+class Player
+	
+	variables
+		name					:str
+		year					:int
+		wins					:int
+		rolls					:list
+
+		game					:Game
+	
+	methods:
+		__init__(self, name:str, year:int)
+			"""
+				Initializes the class with a string.
+			"""
+		RollDices(self)
+			"""
+				Rolls all of the dices found in the Game class
+			"""
+		AddWin(self)
+			"""
+				Adds one win to self
+			"""
+		

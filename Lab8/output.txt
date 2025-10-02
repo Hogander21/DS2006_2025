@@ -1,0 +1,59 @@
+BoD Results!
+Settings:
+ winsRequired: 1
+ playerAmount: 3
+
+Stats:
+ winners: (2)[<__main__.Player object at 0x0000018912609E00>, <__main__.Player object at 0x0000018912820EF0>]
+ rounds: (2)[<__main__.Round object at 0x0000018912596BA0>, <__main__.Round object at 0x0000018912815810>]
+ tiebreaker: True
+
+Players:
+
+ Phil:
+  Age:         21
+  Wins:         1
+
+  Rounds        1       2
+--------------------------------
+  Total         4       3
+  D6            4       3
+--------------------------------
+
+ Satu:
+  Age:         21
+  Wins:         0
+
+  Rounds        1
+------------------------
+  Total         1
+  D6            1
+------------------------
+
+ Ark:
+  Age:         19
+  Wins:         2
+
+  Rounds        1       2
+--------------------------------
+  Total         4       4
+  D6            4       4
+--------------------------------
+
+Wins visualized:
+ Rounds       1       2
+--------------------------------
+ Phil         1        
+--------------------------------
+ Satu                  
+------------------------
+ Ark          1       2
+--------------------------------
+
+
+Totals Comparison:
+ Rounds       1       2
+--------------------------------
+ Phil         4       3
+ Satu         1
+ Ark          4       4
