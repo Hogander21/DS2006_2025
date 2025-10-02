@@ -1,0 +1,21 @@
+
+
+Battle of dices results!
+Ark
+Round     1     2     3     4 
+D6        1     3     4     3 
+D20      17    20    17    11 
+D100     97    36    14    78 
+
+Phil
+Round     1     2     3     4 
+D6        6     4     1     1 
+D20       4    19     9    13 
+D100     58     9    38    71 
+
+Satu
+Round     1     2     3     4 
+D6        6     2     2     2 
+D20      14    20     2     3 
+D100     33    14    33     4 
+
