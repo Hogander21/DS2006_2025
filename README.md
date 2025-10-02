@@ -16,3 +16,5 @@ Please **create a txt file** with your GitHub `username`.txt in the **source roo
 E.g. `<username>.txt`
 
 Attach a screenshot of your **cloned repo in VS Code with the created file** to **Black Board**.
+
+Karl was here
