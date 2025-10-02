@@ -1,0 +1,26 @@
+Player Information:
+Name: A
+* E-mail: A@email
+* Country: countryA
+* Wins: 3
+
+Name: B
+* E-mail: B@email
+* Country: countryB
+* Wins: 3
+
+Name: C
+* E-mail: C@email
+* Country: countryC
+* Wins: 3
+
+
+Game rounds:
+Round 1:
+ A rolled 1, B rolled 1, C rolled 1
+Round 2:
+ A rolled 2, B rolled 2, C rolled 2
+Round 3:
+ A rolled 5, B rolled 5, C rolled 5
+Round 4:
+ A rolled 4, B rolled 4, C rolled 4

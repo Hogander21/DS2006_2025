@@ -1,0 +1,34 @@
+
+
+Battle of dices results!
+
+Phil
+ Age: 21
+ Wins: 1
+
+Round     1     2     3     4 
+D6        2     4     4     2 
+D20       9     8    19     3 
+D100     28    35    95    54 
+Total    39    47   118    59 
+
+Satu
+ Age: 21
+ Wins: 0
+
+Round     1     2     3     4 
+D6        2     1     6     4 
+D20       1    10    16     2 
+D100     66    39    23    55 
+Total    69    50    45    61 
+
+Ark
+ Age: 19
+ Wins: 3
+
+Round     1     2     3     4 
+D6        1     1     2     3 
+D20      12    20    17    10 
+D100     57    34    10    50 
+Total    70    55    29    63 
+
