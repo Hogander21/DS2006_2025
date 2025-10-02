@@ -1,0 +1,25 @@
+•Create a public repository “DS2006_LABS”
+
+•Make sure to add a README.md file
+
+•Commit all LABs related to Dice Problem as separate commits
+
+•There could be multiple files for each commit
+
+•Compare each commit to see what's changed 
+
+•Ask your team members to fork the repo
+
+•Each change README.md and raise a PR to merge changes to your colleague’s repo
+
+•Share your repo (URL)
+
+
+
+
+
+Extra tasks if you are up to it (you don’t need to submit this)
+
+
+
+•Have a common repo for all the members of your group and all try to have one best working version of the latest dice problem
